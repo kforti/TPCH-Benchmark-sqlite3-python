@@ -1,0 +1,4 @@
+matplotlib==3.1.1
+numpy==1.19.1
+pandas==1.1.0
+sqlparse==0.4.1
